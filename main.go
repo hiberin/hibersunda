@@ -90,7 +90,12 @@ func getWordsBySubstring(c *gin.Context) {
 
 	foundWords := []interface{}{}
 	for i := 0; i < len(words.Words); i++ {
-		if strings.Contains(words.Words[i].Sorangan, substring) || strings.Contains(words.Words[i].Batur, substring) || strings.Contains(words.Words[i].Loma, substring) || strings.Contains(words.Words[i].Bindo, substring) {
+		soranganWord := strings.ToLower(words.Words[i].Sorangan)
+		baturWord := strings.ToLower(words.Words[i].Batur)
+		lomaWord := strings.ToLower(words.Words[i].Loma)
+		bindoWord := strings.ToLower(words.Words[i].Bindo)
+		substring = strings.ToLower(substring)
+		if strings.Contains(soranganWord, substring) || strings.Contains(baturWord, substring) || strings.Contains(lomaWord, substring) || strings.Contains(bindoWord, substring) {
 			foundWords = append(foundWords, words.Words[i])
 		}
 	}
