@@ -38,7 +38,7 @@ func main() {
 	router.GET("/undakusukbasa/:substring", getWordsBySubstring)
 
 	// run the router on port 8080
-	router.Run("localhost: 8080")
+	router.Run()
 }
 
 /**
