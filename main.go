@@ -22,9 +22,18 @@ type word struct {
 	Bindo    string `json:"bindo"`
 }
 
+// CORS Middleware
+func CORS(c *gin.Context) {
+	c.Header("Access-Control-Allow-Origin", "*")
+	c.Header("Access-Control-Allow-Methods", "GET")
+	c.Header("Content-Type", "application/json")
+}
+
 func main() {
 	// initiate router using gin
 	router := gin.Default()
+	// We use our custom CORS Middleware
+	router.Use(CORS)
 	router.GET("/undakusukbasa", getAllWords)
 	router.GET("/undakusukbasa/:substring", getWordsBySubstring)
 
