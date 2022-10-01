@@ -20,6 +20,7 @@ type word struct {
 	Batur    string `json:"batur"`
 	Loma     string `json:"loma"`
 	Bindo    string `json:"bindo"`
+	English  string `json:"english"`
 }
 
 // CORS Middleware
@@ -94,8 +95,9 @@ func getWordsBySubstring(c *gin.Context) {
 		baturWord := strings.ToLower(words.Words[i].Batur)
 		lomaWord := strings.ToLower(words.Words[i].Loma)
 		bindoWord := strings.ToLower(words.Words[i].Bindo)
+		englishWord := strings.ToLower(words.Words[i].English)
 		substring = strings.ToLower(substring)
-		if strings.Contains(soranganWord, substring) || strings.Contains(baturWord, substring) || strings.Contains(lomaWord, substring) || strings.Contains(bindoWord, substring) {
+		if strings.Contains(soranganWord, substring) || strings.Contains(baturWord, substring) || strings.Contains(lomaWord, substring) || strings.Contains(bindoWord, substring) || strings.Contains(englishWord, substring) {
 			foundWords = append(foundWords, words.Words[i])
 		}
 	}

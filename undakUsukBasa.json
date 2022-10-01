@@ -4,19 +4,22 @@
 			"sorangan": "neda",
 			"batur": "tuang",
 			"loma": "dahar",
-			"bindo": "makan"
+			"bindo": "makan",
+			"english": "eat"
 		},
 		{
 			"sorangan": "mondok",
 			"batur": "kulem",
 			"loma": "sare",
-			"bindo": "tidur"
+			"bindo": "tidur",
+			"english": "sleep"
 		},
 		{
 			"sorangan": "meser",
 			"batur": "ngagaleuh",
 			"loma": "meuli",
-			"bindo": "membeli"
+			"bindo": "membeli",
+			"english": "buy"
 		}
 	]
 }
