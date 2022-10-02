@@ -1,11 +1,207 @@
 {
 	"words": [
 		{
-			"sorangan": "neda",
-			"batur": "tuang",
-			"loma": "dahar",
-			"bindo": "makan",
-			"english": "eat"
+			"sorangan": "lebet",
+			"batur": "lebet",
+			"loma": "abus, asup",
+			"bindo": "masuk",
+			"english": "enter"
+		},
+		{
+			"sorangan": "teu acan",
+			"batur": "teu acan",
+			"loma": "acan, encan, can, tacan",
+			"bindo": "belum",
+			"english": "not yet"
+		},
+		{
+			"sorangan": "adi",
+			"batur": "ray, rayi",
+			"loma": "adi",
+			"bindo": "adik",
+			"english": "little brother"
+		},
+		{
+			"sorangan": "kanggo, kanggé",
+			"batur": "haturan",
+			"loma": "ajang, jang, keur, pikeun",
+			"bindo": "untuk",
+			"english": "for"
+		},
+		{
+			"sorangan": "ajar",
+			"batur": "wuruk, wulang",
+			"loma": "ajar",
+			"bindo": "ajar, mengajar",
+			"english": "teach"
+		},
+		{
+			"sorangan": "ngaji",
+			"batur": "ngaos",
+			"loma": "aji, ngaji",
+			"bindo": "mengaji",
+			"english": "read (holy quran)"
+		},
+		{
+			"sorangan": "akang",
+			"batur": "engkang",
+			"loma": "akang",
+			"bindo": "abang, kakak",
+			"english": "big brother"
+		},
+		{
+			"sorangan": "pun aki",
+			"batur": "tuang éyang",
+			"loma": "aki",
+			"bindo": "kakek",
+			"english": "grandfather"
+		},
+		{
+			"sorangan": "aku, ngaku",
+			"batur": "angken, ngangken",
+			"loma": "aku, ngaku",
+			"bindo": "mengaku",
+			"english": "confess"
+		},
+		{
+			"sorangan": "pun alo",
+			"batur": "kapiputra",
+			"loma": "alo",
+			"bindo": "keponakan",
+			"english": "cousin"
+		},
+		{
+			"sorangan": "saé",
+			"batur": "saé",
+			"loma": "alus",
+			"bindo": "bagus",
+			"english": "good"
+		},
+		{
+			"sorangan": "supados",
+			"batur": "supados",
+			"loma": "ambéh, supaya, sangkan, ngarah",
+			"bindo": "supaya",
+			"english": "so that"
+		},
+		{
+			"sorangan": "ambek",
+			"batur": "bendu",
+			"loma": "ambek",
+			"bindo": "marah",
+			"english": "angry"
+		},
+		{
+			"sorangan": "ngambeu",
+			"batur": "ngambung",
+			"loma": "ambeu, ngambeu",
+			"bindo": "mencium",
+			"english": "smell"
+		},
+		{
+			"sorangan": "permios",
+			"batur": "permios",
+			"loma": "amit, amitan",
+			"bindo": "permisi",
+			"english": "ask permission"
+		},
+		{
+			"sorangan": "anggel",
+			"batur": "bantal",
+			"loma": "bantal, kajang, mastaka",
+			"bindo": "bantal",
+			"english": "pillow"
+		},
+		{
+			"sorangan": "réngsé",
+			"batur": "parantos, atos, tos",
+			"loma": "anggeus, enggeus, geus",
+			"bindo": "sudah",
+			"english": "done"
+		},
+		{
+			"sorangan": "ngadeuheus",
+			"batur": "natamu",
+			"loma": "anjang, nganjang",
+			"bindo": "bertamu, berkunjung",
+			"english": "visit"
+		},
+		{
+			"sorangan": "jajap, ngajajap",
+			"batur": "nyarengan",
+			"loma": "anteur, nganteur",
+			"bindo": "mengantar",
+			"english": "accompany"
+		},
+		{
+			"sorangan": "ngantosan",
+			"batur": "ngantosan",
+			"loma": "anti, dago, ngadagoan",
+			"bindo": "menunggu",
+			"english": "wait"
+		},
+		{
+			"sorangan": "badé, seja",
+			"batur": "badé, seja",
+			"loma": "arék, érék, rék",
+			"bindo": "akan, mau",
+			"english": "will"
+		},
+		{
+			"sorangan": "dupi",
+			"batur": "dupi",
+			"loma": "ari",
+			"bindo": "jika",
+			"english": "(used to confirm something)"
+		},
+		{
+			"sorangan": "raraosan",
+			"batur": "raraosan",
+			"loma": "asa, rarasaan",
+			"bindo": "perasaan",
+			"english": "feeling"
+		},
+		{
+			"sorangan": "kawit",
+			"batur": "kawit",
+			"loma": "asal",
+			"bindo": "asal",
+			"english": "origin"
+		},
+		{
+			"sorangan": "ngaso",
+			"batur": "leleson",
+			"loma": "aso, ngaso",
+			"bindo": "istirahat",
+			"english": "rest"
+		},
+		{
+			"sorangan": "atanapi",
+			"batur": "atanapi",
+			"loma": "atawa",
+			"bindo": "atau",
+			"english": "or"
+		},
+		{
+			"sorangan": "bingah",
+			"batur": "bingah",
+			"loma": "atoh, bungah, gumbira",
+			"bindo": "gembira",
+			"english": "happy"
+		},
+		{
+			"sorangan": "awak",
+			"batur": "salira",
+			"loma": "awak",
+			"bindo": "tubuh, badan",
+			"english": "body"
+		},
+		{
+			"sorangan": "awéwé",
+			"batur": "istri",
+			"loma": "awéwé",
+			"bindo": "perempuan",
+			"english": "girl"
 		},
 		{
 			"sorangan": "mondok",
