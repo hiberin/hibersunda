@@ -204,18 +204,361 @@
 			"english": "girl"
 		},
 		{
-			"sorangan": "mondok",
-			"batur": "kulem",
-			"loma": "sare",
-			"bindo": "tidur",
-			"english": "sleep"
+			"sorangan": "gampil",
+			"batur": "gampil",
+			"loma": "babari, gampang, énténg",
+			"bindo": "gampang, mudah",
+			"english": "easy"
 		},
 		{
-			"sorangan": "meser",
-			"batur": "ngagaleuh",
-			"loma": "meuli",
-			"bindo": "membeli",
+			"sorangan": "aos",
+			"batur": "aos",
+			"loma": "baca",
+			"bindo": "baca",
+			"english": "read"
+		},
+		{
+			"sorangan": "badanten",
+			"batur": "badanten",
+			"loma": "badami",
+			"bindo": "berunding",
+			"english": "discuss"
+		},
+		{
+			"sorangan": "sawios, wios, teu sawios",
+			"batur": "sawios, wios, teu sawios",
+			"loma": "baé, keun baé",
+			"bindo": "biarkan, tidak apa-apa",
+			"english": "let it be"
+		},
+		{
+			"sorangan": "bagéa",
+			"batur": "haturan",
+			"loma": "bagéa",
+			"bindo": "selamat",
+			"english": "live happily"
+		},
+		{
+			"sorangan": "kapungkur",
+			"batur": "kapungkur",
+			"loma": "baheula, bareto",
+			"bindo": "zaman dulu",
+			"english": "long time ago"
+		},
+		{
+			"sorangan": "baju",
+			"batur": "raksukan, acuk, anggoan",
+			"loma": "baju",
+			"bindo": "baju",
+			"english": "dress"
+		},
+		{
+			"sorangan": "baktos",
+			"batur": "baktos",
+			"loma": "bakti",
+			"bindo": "bakti",
+			"english": "devote"
+		},
+		{
+			"sorangan": "wangsul",
+			"batur": "mulih",
+			"loma": "balik, mulang",
+			"bindo": "pulang",
+			"english": "go home"
+		},
+		{
+			"sorangan": "balur",
+			"batur": "lulur",
+			"loma": "balur",
+			"bindo": "lulur",
+			"english": "scrub"
+		},
+		{
+			"sorangan": "sesah",
+			"batur": "sesah",
+			"loma": "bangga, hésé",
+			"bindo": "susah",
+			"english": "difficult"
+		},
+		{
+			"sorangan": "pun bapa",
+			"batur": "tuang rama",
+			"loma": "bapa",
+			"bindo": "ayah, bapak",
+			"english": "father"
+		},
+		{
+			"sorangan": "sareng",
+			"batur": "sareng",
+			"loma": "bareng, reujeung, jeung",
+			"bindo": "dengan,bersama",
+			"english": "together with"
+		},
+		{
+			"sorangan": "batuk",
+			"batur": "gohgoy",
+			"loma": "batuk",
+			"bindo": "batuk",
+			"english": "cough"
+		},
+		{
+			"sorangan": "batur",
+			"batur": "réncang",
+			"loma": "batur",
+			"bindo": "teman, orang lain",
+			"english": "friend"
+		},
+		{
+			"sorangan": "babaturan",
+			"batur": "réréncangan",
+			"loma": "babaturan",
+			"bindo": "teman",
+			"english": "friend"
+		},
+		{
+			"sorangan": "bantun",
+			"batur": "candak",
+			"loma": "bawa",
+			"bindo": "bawa",
+			"english": "take, bring"
+		},
+		{
+			"sorangan": "séép",
+			"batur": "séép",
+			"loma": "béak",
+			"bindo": "habis",
+			"english": "finished, completed"
+		},
+		{
+			"sorangan": "bénten",
+			"batur": "bénten",
+			"loma": "béda",
+			"bindo": "beda",
+			"english": "different"
+		},
+		{
+			"sorangan": "wartos",
+			"batur": "wartos",
+			"loma": "béja",
+			"bindo": "kabar",
+			"english": "news"
+		},
+		{
+			"sorangan": "wawartos",
+			"batur": "wawartos",
+			"loma": "bébéja",
+			"bindo": "memberi kabar, laporan",
+			"english": "tell"
+		},
+		{
+			"sorangan": "leres",
+			"batur": "leres",
+			"loma": "bener, enya",
+			"bindo": "benar",
+			"english": "correct"
+		},
+		{
+			"sorangan": "asma",
+			"batur": "ampeg",
+			"loma": "bengék, mengi",
+			"bindo": "asma",
+			"english": "asthma"
+		},
+		{
+			"sorangan": "masihan, maparin",
+			"batur": "ngahaturanan, ngalélér",
+			"loma": "béré, méré",
+			"bindo": "memberi",
+			"english": "give"
+		},
+		{
+			"sorangan": "pangésto, pangéstu",
+			"batur": "damang, wilujeng",
+			"loma": "berekah",
+			"bindo": "berkah, berkat",
+			"english": "blessed, healthy"
+		},
+		{
+			"sorangan": "beuki, seneng",
+			"batur": "sedep",
+			"loma": "beuki",
+			"bindo": "suka(tentang makan)",
+			"english": "like(about foods)"
+		},
+		{
+			"sorangan": "palih",
+			"batur": "palih",
+			"loma": "beulah",
+			"bindo": "patah, sebelah",
+			"english": "broken, side, next"
+		},
+		{
+			"sorangan": "pésér, mésér",
+			"batur": "galeuh, ngagaleuh",
+			"loma": "beuli, meuli",
+			"bindo": "beli, membeli",
 			"english": "buy"
+		},
+		{
+			"sorangan": "kénging",
+			"batur": "kénging",
+			"loma": "beunang",
+			"bindo": "dapat",
+			"english": "get"
+		},
+		{
+			"sorangan": "beungeut",
+			"batur": "pameunteu, raray",
+			"loma": "beungeut",
+			"bindo": "wajah, muka",
+			"english": "face"
+		},
+		{
+			"sorangan": "siang",
+			"batur": "siang",
+			"loma": "beurang",
+			"bindo": "siang",
+			"english": "noon"
+		},
+		{
+			"sorangan": "abot",
+			"batur": "abot",
+			"loma": "beurat",
+			"bindo": "berat",
+			"english": "heavy"
+		},
+		{
+			"sorangan": "padaharan",
+			"batur": "patuangan, lambut",
+			"loma": "beuteung",
+			"bindo": "perut",
+			"english": "stomach"
+		},
+		{
+			"sorangan": "pun bibi",
+			"batur": "tuang bibi",
+			"loma": "bibi",
+			"bindo": "bibi, tante",
+			"english": "aunt"
+		},
+		{
+			"sorangan": "paparinkeun, maparinkeun",
+			"batur": "sanggakeun, nyanggakeun; ngahaturkeun",
+			"loma": "bikeun, mikeun",
+			"bindo": "berikan, memberikan",
+			"english": "give"
+		},
+		{
+			"sorangan": "étang, ngétang",
+			"batur": "étang, ngétang",
+			"loma": "bilang, milang",
+			"bindo": "hitung, menghitung",
+			"english": "count"
+		},
+		{
+			"sorangan": "tiasa",
+			"batur": "tiasa",
+			"loma": "bisa",
+			"bindo": "bisa",
+			"english": "can"
+		},
+		{
+			"sorangan": "bilih",
+			"batur": "bilih",
+			"loma": "bisi",
+			"bindo": "takut, jika",
+			"english": "if"
+		},
+		{
+			"sorangan": "biwir",
+			"batur": "lambey",
+			"loma": "biwir",
+			"bindo": "bibir",
+			"english": "lips"
+		},
+		{
+			"sorangan": "tiasa jadi",
+			"batur": "tiasa jadi, tiasa janten",
+			"loma": "boa",
+			"bindo": "jikalau, jangan-jangan",
+			"english": "what if, can be"
+		},
+		{
+			"sorangan": "gaduh",
+			"batur": "kagungan",
+			"loma": "boga",
+			"bindo": "punya",
+			"english": "have, has, had"
+		},
+		{
+			"sorangan": "miceun",
+			"batur": "kabeuratan",
+			"loma": "buang, ngising",
+			"bindo": "buang air besar",
+			"english": "defecate"
+		},
+		{
+			"sorangan": "budak",
+			"batur": "murangkalih",
+			"loma": "budak",
+			"bindo": "anak",
+			"english": "son, daughter"
+		},
+		{
+			"sorangan": "bujal, puser",
+			"batur": "udel",
+			"loma": "bujal",
+			"bindo": "pusar",
+			"english": "navel"
+		},
+		{
+			"sorangan": "buka",
+			"batur": "bobor",
+			"loma": "buka puasa",
+			"bindo": "buka puasa",
+			"english": "breaking the fast"
+		},
+		{
+			"sorangan": "buktos",
+			"batur": "buktos",
+			"loma": "bukti",
+			"bindo": "bukti",
+			"english": "proof"
+		},
+		{
+			"sorangan": "sasih",
+			"batur": "sasih",
+			"loma": "bulan",
+			"bindo": "bulan",
+			"english": "month"
+		},
+		{
+			"sorangan": "sonten",
+			"batur": "sonten",
+			"loma": "burit",
+			"bindo": "sore",
+			"english": "afternoon, evening"
+		},
+		{
+			"sorangan": "bujeng",
+			"batur": "bujeng",
+			"loma": "buru",
+			"bindo": "cepat",
+			"english": "hurry"
+		},
+		{
+			"sorangan": "perlu, wegah",
+			"batur": "peryogi",
+			"loma": "butuh",
+			"bindo": "perlu",
+			"english": "need"
+		},
+		{
+			"sorangan": "awon",
+			"batur": "awon",
+			"loma": "butut",
+			"bindo": "jelek",
+			"english": "bad"
 		}
 	]
 }
