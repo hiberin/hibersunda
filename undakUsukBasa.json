@@ -559,6 +559,174 @@
 			"loma": "butut",
 			"bindo": "jelek",
 			"english": "bad"
+		},
+		{
+			"sorangan": "cabak, nyabak; cagap, nyagap",
+			"batur": "cepeng, nyepeng",
+			"loma": "cabak, nyabak; cagap, nyagap",
+			"bindo": "pegang, memegang",
+			"english": "hold"
+		},
+		{
+			"sorangan": "pangésto, pangéstu",
+			"batur": "damang",
+			"loma": "cageur",
+			"bindo": "sehat",
+			"english": "healthy"
+		},
+		{
+			"sorangan": "calana",
+			"batur": "lancingan",
+			"loma": "acing",
+			"bindo": "celana",
+			"english": "trousers"
+		},
+		{
+			"sorangan": "cangkéng",
+			"batur": "angkéng",
+			"loma": "cangkéng",
+			"bindo": "pinggang",
+			"english": "waist"
+		},
+		{
+			"sorangan": "caram, nyaram; carak, nyarék",
+			"batur": "wagel, ngawagel",
+			"loma": "caram, nyaram; carak, nyarék",
+			"bindo": "larang, melarang",
+			"english": "forbid"
+		},
+		{
+			"sorangan": "awis",
+			"batur": "awis",
+			"loma": "carang, langka",
+			"bindo": "jarang",
+			"english": "seldom, rarely"
+		},
+		{
+			"sorangan": "nyarékan",
+			"batur": "nyeuseul, nyeuseukan",
+			"loma": "carék, nyarékan",
+			"bindo": "memarahi",
+			"english": "scold"
+		},
+		{
+			"sorangan": "nyanggem",
+			"batur": "nyarios",
+			"loma": "carita, nyarita; omong, ngomong",
+			"bindo": "berbicara",
+			"english": "talk"
+		},
+		{
+			"sorangan": "cenah",
+			"batur": "saurna",
+			"loma": "cenah",
+			"bindo": "katanya",
+			"english": "he/she said"
+		},
+		{
+			"sorangan": "nyekel",
+			"batur": "nyepeng",
+			"loma": "cekel, nyekel",
+			"bindo": "memegang",
+			"english": "hold"
+		},
+		{
+			"sorangan": "nyauran",
+			"batur": "ngagentraan",
+			"loma": "celuk, nyeluk; gero, ngageroan",
+			"bindo": "memanggil",
+			"english": "call"
+		},
+		{
+			"sorangan": "ceuli",
+			"batur": "cepil",
+			"loma": "ceuli",
+			"bindo": "telinga",
+			"english": "ears"
+		},
+		{
+			"sorangan": "ceurik",
+			"batur": "nangis",
+			"loma": "ceurik",
+			"bindo": "menangis",
+			"english": "cry"
+		},
+		{
+			"sorangan": "matuh",
+			"batur": "calik, linggih",
+			"loma": "cicing",
+			"bindo": "menetap, bertempat tinggal",
+			"english": "stay"
+		},
+		{
+			"sorangan": "ciduh, nyiduh",
+			"batur": "ludah, ngaludah",
+			"loma": "ciduh, nyiduh",
+			"bindo": "ludah, meludah",
+			"english": "spit"
+		},
+		{
+			"sorangan": "cobi",
+			"batur": "cobi",
+			"loma": "cik",
+			"bindo": "coba",
+			"english": "what if, try"
+		},
+		{
+			"sorangan": "cikal",
+			"batur": "putra pangageungna",
+			"loma": "cikal",
+			"bindo": "anak sulung",
+			"english": "firstborn child"
+		},
+		{
+			"sorangan": "kakus",
+			"batur": "jamban",
+			"loma": "ciling, pacilingan",
+			"bindo": "kamar mandi",
+			"english": "toilet, bathroom"
+		},
+		{
+			"sorangan": "tanda",
+			"batur": "tawis",
+			"loma": "ciri",
+			"bindo": "tanda",
+			"english": "mark, sign"
+		},
+		{
+			"sorangan": "nyium",
+			"batur": "ngambung",
+			"loma": "cium, nyium",
+			"bindo": "mencium",
+			"english": "kiss"
+		},
+		{
+			"sorangan": "bantun, ngabantun",
+			"batur": "candak, nyandak",
+			"loma": "cokot, nyokot",
+			"bindo": "bawa, membawa",
+			"english": "take, bring"
+		},
+		{
+			"sorangan": "cekap",
+			"batur": "cekap",
+			"loma": "mahi",
+			"bindo": "cukup",
+			"english": "enough"
+		},
+		{
+			"sorangan": "dicukur",
+			"batur": "diparas",
+			"loma": "cukur, dicukur",
+			"bindo": "dipangkas rambut",
+			"english": "cut hair"
+		},
+		{
+			"sorangan": "dongkap",
+			"batur": "sumping, rawuh",
+			"loma": "cunduk, datang",
+			"bindo": "datang",
+			"english": "come"
 		}
 	]
 }
