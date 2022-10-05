@@ -727,6 +727,104 @@
 			"loma": "cunduk, datang",
 			"bindo": "datang",
 			"english": "come"
+		},
+		{
+			"sorangan": "daék, purun",
+			"batur": "kersa",
+			"loma": "daék",
+			"bindo": "ingin, mau(bersedia)",
+			"english": "willing to"
+		},
+		{
+			"sorangan": "dagang",
+			"batur": "icalan",
+			"loma": "dagang",
+			"bindo": "berjualan",
+			"english": "selling"
+		},
+		{
+			"sorangan": "neda",
+			"batur": "tuang",
+			"loma": "dahar",
+			"bindo": "makan",
+			"english": "eat"
+		},
+		{
+			"sorangan": "dangdan",
+			"batur": "dangdos",
+			"loma": "dangdan",
+			"bindo": "berdandan",
+			"english": "dress up"
+		},
+		{
+			"sorangan": "dapur",
+			"batur": "pawon",
+			"loma": "dapur",
+			"bindo": "dapur",
+			"english": "kitchen"
+		},
+		{
+			"sorangan": "kuping, nguping",
+			"batur": "dangu, ngadangu",
+			"loma": "déngé, ngadéngé",
+			"bindo": "dengar, mendengar",
+			"english": "hear"
+		},
+		{
+			"sorangan": "caket",
+			"batur": "caket",
+			"loma": "deukeut",
+			"bindo": "dekat",
+			"english": "close, near"
+		},
+		{
+			"sorangan": "atik, ngatik",
+			"batur": "wuruk, ngawuruk; mitutur, miwejang",
+			"loma": "didik, ngadidik",
+			"bindo": "mendidik",
+			"english": "educate"
+		},
+		{
+			"sorangan": "diri",
+			"batur": "salira",
+			"loma": "diri",
+			"bindo": "diri sendiri",
+			"english": "self"
+		},
+		{
+			"sorangan": "diuk",
+			"batur": "calik, linggih",
+			"loma": "diuk",
+			"bindo": "duduk",
+			"english": "sit"
+		},
+		{
+			"sorangan": "kaduga",
+			"batur": "kiat",
+			"loma": "duga, kaduga",
+			"bindo": "mampu",
+			"english": "capable"
+		},
+		{
+			"sorangan": "artos",
+			"batur": "artos",
+			"loma": "duit",
+			"bindo": "uang",
+			"english": "money"
+		},
+		{
+			"sorangan": "jalaran",
+			"batur": "ku margi",
+			"loma": "duméh, lantaran",
+			"bindo": "sebab, karena",
+			"english": "because"
+		},
+		{
+			"sorangan": "émut",
+			"batur": "émut",
+			"loma": "éling, inget",
+			"bindo": "ingat",
+			"english": "remember"
 		}
 	]
 }
