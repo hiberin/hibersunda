@@ -825,6 +825,174 @@
 			"loma": "éling, inget",
 			"bindo": "ingat",
 			"english": "remember"
+		},
+		{
+			"sorangan": "tambih",
+			"batur": "tambih",
+			"loma": "émboh, tambah",
+			"bindo": "tambah",
+			"english": "add"
+		},
+		{
+			"sorangan": "isin",
+			"batur": "lingsem",
+			"loma": "éra",
+			"bindo": "malu",
+			"english": "shy"
+		},
+		{
+			"sorangan": "alim",
+			"batur": "teu kersa",
+			"loma": "embung",
+			"bindo": "tidak mau",
+			"english": "don't want"
+		},
+		{
+			"sorangan": "pamondokan",
+			"batur": "pangkuleman",
+			"loma": "enggon",
+			"bindo": "tempat tidur",
+			"english": "bed"
+		},
+		{
+			"sorangan": "nuju",
+			"batur": "nuju",
+			"loma": "eukeur, keur",
+			"bindo": "sedang",
+			"english": "currently"
+		},
+		{
+			"sorangan": "émut",
+			"batur": "émut",
+			"loma": "éling, inget",
+			"bindo": "ingat",
+			"english": "remember"
+		},
+		{
+			"sorangan": "ngalebetan",
+			"batur": "ngalebetan",
+			"loma": "eusi, ngeusian",
+			"bindo": "mengisi",
+			"english": "fill"
+		},
+		{
+			"sorangan": "teu aya",
+			"batur": "teu aya",
+			"loma": "euweuh",
+			"bindo": "tidak ada",
+			"english": "nothing"
+		},
+		{
+			"sorangan": "énggal",
+			"batur": "énggal",
+			"loma": "gancang, geuwat; téréh",
+			"bindo": "cepat",
+			"english": "fast, quick"
+		},
+		{
+			"sorangan": "ganti",
+			"batur": "gentos",
+			"loma": "ganti",
+			"bindo": "ganti",
+			"english": "change"
+		},
+		{
+			"sorangan": "gardéng",
+			"batur": "lalangsé",
+			"loma": "gardéng, rérégan",
+			"bindo": "gorden",
+			"english": "curtain"
+		},
+		{
+			"sorangan": "gawé",
+			"batur": "damel",
+			"loma": "gawé",
+			"bindo": "bekerja",
+			"english": "work"
+		},
+		{
+			"sorangan": "gedé",
+			"batur": "ageung",
+			"loma": "gedé",
+			"bindo": "besar",
+			"english": "big"
+		},
+		{
+			"sorangan": "gelung",
+			"batur": "sanggul",
+			"loma": "gelung",
+			"bindo": "sanggul",
+			"english": "bun"
+		},
+		{
+			"sorangan": "raos",
+			"batur": "raos",
+			"loma": "genah, ngeunah",
+			"bindo": "enak",
+			"english": "nice, tasty"
+		},
+		{
+			"sorangan": "udur",
+			"batur": "teu damang",
+			"loma": "gering",
+			"bindo": "sakit",
+			"english": "sick"
+		},
+		{
+			"sorangan": "getol",
+			"batur": "kersaan",
+			"loma": "getol",
+			"bindo": "rajin",
+			"english": "diligent"
+		},
+		{
+			"sorangan": "geulang",
+			"batur": "pinggel",
+			"loma": "geulang",
+			"bindo": "gelang",
+			"english": "bracelet"
+		},
+		{
+			"sorangan": "geura, mangga",
+			"batur": "mangga",
+			"loma": "geura, pék, hég",
+			"bindo": "silakan",
+			"english": "please"
+		},
+		{
+			"sorangan": "gigireun",
+			"batur": "gedengeun",
+			"loma": "gigir, gigireun",
+			"bindo": "di samping, di sebelah",
+			"english": "beside"
+		},
+		{
+			"sorangan": "gimir",
+			"batur": "rentang manah",
+			"loma": "gimir",
+			"bindo": "gamang",
+			"english": "giddy"
+		},
+		{
+			"sorangan": "cocoba",
+			"batur": "cocobi",
+			"loma": "gogoda, cocoba",
+			"bindo": "cobaan",
+			"english": "trial"
+		},
+		{
+			"sorangan": "goréng",
+			"batur": "awon",
+			"loma": "goréng",
+			"bindo": "jelek",
+			"english": "bad"
+		},
+		{
+			"sorangan": "nurut",
+			"batur": "tumut",
+			"loma": "gugu, ngagugu",
+			"bindo": "patuh",
+			"english": "obey"
 		}
 	]
 }
