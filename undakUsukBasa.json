@@ -993,6 +993,146 @@
 			"loma": "gugu, ngagugu",
 			"bindo": "patuh",
 			"english": "obey"
+		},
+		{
+			"sorangan": "haben",
+			"batur": "teras-terasan",
+			"loma": "haben, hayoh",
+			"bindo": "terus-terusan",
+			"english": "continously"
+		},
+		{
+			"sorangan": "nungkulan",
+			"batur": "ngaluuhan",
+			"loma": "hadir, ngahadiran",
+			"bindo": "menghadiri",
+			"english": "attend"
+		},
+		{
+			"sorangan": "perkawis",
+			"batur": "perkawis",
+			"loma": "hal, perkara",
+			"bindo": "perkara",
+			"english": "case"
+		},
+		{
+			"sorangan": "hapunten",
+			"batur": "hapunten",
+			"loma": "hampura, maaf",
+			"bindo": "minta maaf",
+			"english": "sorry, apologize"
+		},
+		{
+			"sorangan": "payun",
+			"batur": "payun",
+			"loma": "hareup",
+			"bindo": "depan",
+			"english": "front"
+		},
+		{
+			"sorangan": "harga",
+			"batur": "pangaos",
+			"loma": "harga",
+			"bindo": "harga",
+			"english": "price"
+		},
+		{
+			"sorangan": "hartos",
+			"batur": "hartos",
+			"loma": "harti",
+			"bindo": "arti",
+			"english": "meaning"
+		},
+		{
+			"sorangan": "haté",
+			"batur": "manah",
+			"loma": "haté",
+			"bindo": "hati",
+			"english": "heart"
+		},
+		{
+			"sorangan": "watir",
+			"batur": "hawatos",
+			"loma": "hawatir, watir, karunya",
+			"bindo": "kasihan",
+			"english": "pitty"
+		},
+		{
+			"sorangan": "hoyong",
+			"batur": "palay",
+			"loma": "hayang",
+			"bindo": "mau",
+			"english": "want"
+		},
+		{
+			"sorangan": "héran",
+			"batur": "hémeng",
+			"loma": "hélok",
+			"bindo": "heran",
+			"english": "amazed"
+		},
+		{
+			"sorangan": "sesah",
+			"batur": "sesah",
+			"loma": "hésé, susah, pelik",
+			"bindo": "susah",
+			"english": "difficult"
+		},
+		{
+			"sorangan": "heuay",
+			"batur": "angob",
+			"loma": "heuay",
+			"bindo": "menguap",
+			"english": "yawn"
+		},
+		{
+			"sorangan": "heubeul, lila",
+			"batur": "lami",
+			"loma": "heubeul, lawas, lila",
+			"bindo": "lama",
+			"english": "long time"
+		},
+		{
+			"sorangan": "mangga",
+			"batur": "mangga",
+			"loma": "heug, seug",
+			"bindo": "iya (menyanggupi)",
+			"english": "yes (agree)"
+		},
+		{
+			"sorangan": "liron",
+			"batur": "gentos",
+			"loma": "hili, tukeur",
+			"bindo": "ganti",
+			"english": "trade, change"
+		},
+		{
+			"sorangan": "hirup",
+			"batur": "jumeneng",
+			"loma": "hirup",
+			"bindo": "hidup",
+			"english": "living, alive"
+		},
+		{
+			"sorangan": "hudang",
+			"batur": "gugah",
+			"loma": "hudang",
+			"bindo": "bangun",
+			"english": "awake"
+		},
+		{
+			"sorangan": "huntu",
+			"batur": "waos",
+			"loma": "huntu",
+			"bindo": "gigi",
+			"english": "tooth, teeth"
+		},
+		{
+			"sorangan": "hutang",
+			"batur": "sambetan",
+			"loma": "hutang",
+			"bindo": "utang",
+			"english": "debt"
 		}
 	]
 }
