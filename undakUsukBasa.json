@@ -1266,6 +1266,55 @@
 			"loma": "iwal, kajaba",
 			"bindo": "kecuali",
 			"english": "except, unless"
+		},
+		{
+			"sorangan": "jaga",
+			"batur": "jagi",
+			"loma": "jaga",
+			"bindo": "menjaga",
+			"english": "guard, protect"
+		},
+		{
+			"sorangan": "jalmi",
+			"batur": "jalmi",
+			"loma": "jalma, jelema",
+			"bindo": "manusia",
+			"english": "human"
+		},
+		{
+			"sorangan": "tebih",
+			"batur": "tebih",
+			"loma": "jauh",
+			"bindo": "jauh",
+			"english": "far"
+		},
+		{
+			"sorangan": "lebet",
+			"batur": "lebet",
+			"loma": "jero",
+			"bindo": "dalam, masuk",
+			"english": "deep, inside"
+		},
+		{
+			"sorangan": "jiga",
+			"batur": "sapertos",
+			"loma": "jiga, siga, ciga, saperti",
+			"bindo": "seperti",
+			"english": "as like"
+		},
+		{
+			"sorangan": "jual",
+			"batur": "ical",
+			"loma": "jual",
+			"bindo": "jual",
+			"english": "sell"
+		},
+		{
+			"sorangan": "ngalahirkeun",
+			"batur": "babar",
+			"loma": "juru, ngajuru",
+			"bindo": "melahirkan",
+			"english": "give birth"
 		}
 	]
 }
