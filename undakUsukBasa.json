@@ -1133,6 +1133,139 @@
 			"loma": "hutang",
 			"bindo": "utang",
 			"english": "debt"
+		},
+		{
+			"sorangan": "wartos",
+			"batur": "wartos",
+			"loma": "iber, béja,warta",
+			"bindo": "berita",
+			"english": "news"
+		},
+		{
+			"sorangan": "widi",
+			"batur": "widi",
+			"loma": "idin",
+			"bindo": "izin",
+			"english": "permission"
+		},
+		{
+			"sorangan": "igel",
+			"batur": "ibeng",
+			"loma": "igel",
+			"bindo": "tari",
+			"english": "dance"
+		},
+		{
+			"sorangan": "totopong",
+			"batur": "udeng",
+			"loma": "iket",
+			"bindo": "peci",
+			"english": "cap"
+		},
+		{
+			"sorangan": "ninggalan",
+			"batur": "ninggalan",
+			"loma": "ilik, ngilikan",
+			"bindo": "melihat",
+			"english": "look, see"
+		},
+		{
+			"sorangan": "ngiring",
+			"batur": "ngiring",
+			"loma": "ilu, milu, ngilu",
+			"bindo": "ikut",
+			"english": "follow"
+		},
+		{
+			"sorangan": "rorompok",
+			"batur": "bumi",
+			"loma": "imah",
+			"bindo": "rumah",
+			"english": "home, house"
+		},
+		{
+			"sorangan": "ngimpén",
+			"batur": "ngimpén",
+			"loma": "impi, ngimpi",
+			"bindo": "mimpi",
+			"english": "dream"
+		},
+		{
+			"sorangan": "imut",
+			"batur": "mésem",
+			"loma": "imut",
+			"bindo": "mesem",
+			"english": "smile"
+		},
+		{
+			"sorangan": "pun incu",
+			"batur": "tuang putu",
+			"loma": "incu",
+			"bindo": "cucu",
+			"english": "grandchild"
+		},
+		{
+			"sorangan": "mios",
+			"batur": "angkat",
+			"loma": "indit, miang",
+			"bindo": "berangkat, pergi",
+			"english": "go, depart"
+		},
+		{
+			"sorangan": "pun biang",
+			"batur": "tuang ibu",
+			"loma": "indung",
+			"bindo": "ibu",
+			"english": "mother"
+		},
+		{
+			"sorangan": "inggis, risi",
+			"batur": "rempan",
+			"loma": "inggis, risi",
+			"bindo": "takut",
+			"english": "affraid"
+		},
+		{
+			"sorangan": "nambut",
+			"batur": "nambut",
+			"loma": "injeum, nginjeum",
+			"bindo": "meminjam",
+			"english": "borrow"
+		},
+		{
+			"sorangan": "leueut, ngaleueut",
+			"batur": "leueut, ngaleueut",
+			"loma": "inum, nginum",
+			"bindo": "minum",
+			"english": "drink"
+		},
+		{
+			"sorangan": "irung",
+			"batur": "pangambung",
+			"loma": "irung",
+			"bindo": "hidung",
+			"english": "nose"
+		},
+		{
+			"sorangan": "énjing",
+			"batur": "énjing",
+			"loma": "isuk, isukan",
+			"bindo": "besok",
+			"english": "tomorrow"
+		},
+		{
+			"sorangan": "itung",
+			"batur": "étang",
+			"loma": "itung",
+			"bindo": "hitung",
+			"english": "count"
+		},
+		{
+			"sorangan": "kajaba",
+			"batur": "kajabi",
+			"loma": "iwal, kajaba",
+			"bindo": "kecuali",
+			"english": "except, unless"
 		}
 	]
 }
