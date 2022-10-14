@@ -1315,6 +1315,195 @@
 			"loma": "juru, ngajuru",
 			"bindo": "melahirkan",
 			"english": "give birth"
+		},
+		{
+			"sorangan": "sadayana",
+			"batur": "sadayana",
+			"loma": "kabéh, kabéhanana",
+			"bindo": "semuanya",
+			"english": "all"
+		},
+		{
+			"sorangan": "minggat",
+			"batur": "lolos",
+			"loma": "kabur, minggat",
+			"bindo": "kabur",
+			"english": "go away"
+		},
+		{
+			"sorangan": "kalintang",
+			"batur": "teu kinten",
+			"loma": "kacida, naker",
+			"bindo": "sangat",
+			"english": "very"
+		},
+		{
+			"sorangan": "sawios",
+			"batur": "sawios",
+			"loma": "kajeun, keun baé",
+			"bindo": "tidak apa-apa",
+			"english": "nevermind"
+		},
+		{
+			"sorangan": "nembé",
+			"batur": "kakara, karék",
+			"loma": "nembé",
+			"bindo": "baru saja",
+			"english": "just now"
+		},
+		{
+			"sorangan": "kekemben",
+			"batur": "kekemben",
+			"loma": "karémbong",
+			"bindo": "kain (selendang)",
+			"english": "cloth (shawl)"
+		},
+		{
+			"sorangan": "kantun",
+			"batur": "kantun",
+			"loma": "kari, tinggal",
+			"bindo": "tinggal",
+			"english": "only"
+		},
+		{
+			"sorangan": "kasakit, kanyeri",
+			"batur": "kasawat",
+			"loma": "kasakit",
+			"bindo": "penyakit",
+			"english": "illness"
+		},
+		{
+			"sorangan": "katawis",
+			"batur": "katawis",
+			"loma": "katara, kaciri",
+			"bindo": "terlihat",
+			"english": "seen"
+		},
+		{
+			"sorangan": "sapertos",
+			"batur": "sapertos",
+			"loma": "kawas",
+			"bindo": "seperti",
+			"english": "just like"
+		},
+		{
+			"sorangan": "nikah, jatukrami",
+			"batur": "jatukrami, réndéngan",
+			"loma": "kawin",
+			"bindo": "menikah",
+			"english": "married"
+		},
+		{
+			"sorangan": "kenca",
+			"batur": "kiwa",
+			"loma": "kédé",
+			"bindo": "kiri",
+			"english": "left"
+		},
+		{
+			"sorangan": "sangu",
+			"batur": "sangu",
+			"loma": "kéjo, sangu",
+			"bindo": "nasi",
+			"english": "rice"
+		},
+		{
+			"sorangan": "kélék",
+			"batur": "ingkab",
+			"loma": "kélék",
+			"bindo": "ketiak",
+			"english": "armpit"
+		},
+		{
+			"sorangan": "karinget",
+			"batur": "karinget",
+			"loma": "késang",
+			"bindo": "keringat",
+			"english": "sweat"
+		},
+		{
+			"sorangan": "kahampangan",
+			"batur": "kahampangan",
+			"loma": "kiih",
+			"bindo": "buang air kecil",
+			"english": "pee"
+		},
+		{
+			"sorangan": "kolot",
+			"batur": "sepuh",
+			"loma": "kolot",
+			"bindo": "tua",
+			"english": "old"
+		},
+		{
+			"sorangan": "kangkalung",
+			"batur": "kangkalung",
+			"loma": "kongkorong",
+			"bindo": "kalung",
+			"english": "necklace"
+		},
+		{
+			"sorangan": "mangga",
+			"batur": "mangga",
+			"loma": "kop, pék",
+			"bindo": "silakan",
+			"english": "please"
+		},
+		{
+			"sorangan": "kiat",
+			"batur": "kiat",
+			"loma": "kuat",
+			"bindo": "kuat",
+			"english": "strong"
+		},
+		{
+			"sorangan": "kedah",
+			"batur": "kedah",
+			"loma": "kudu",
+			"bindo": "harus",
+			"english": "must"
+		},
+		{
+			"sorangan": "kumbah",
+			"batur": "wasuh",
+			"loma": "kumbah",
+			"bindo": "cuci",
+			"english": "wash"
+		},
+		{
+			"sorangan": "kumis",
+			"batur": "rumbah",
+			"loma": "kumis",
+			"bindo": "kumis",
+			"english": "moustache"
+		},
+		{
+			"sorangan": "kempel",
+			"batur": "kempel",
+			"loma": "kumpul",
+			"bindo": "kumpul",
+			"english": "gather"
+		},
+		{
+			"sorangan": "kantos",
+			"batur": "kantos",
+			"loma": "kungsi",
+			"bindo": "pernah",
+			"english": "once, ever"
+		},
+		{
+			"sorangan": "kirang",
+			"batur": "kirang",
+			"loma": "kurang",
+			"bindo": "kurang",
+			"english": "less"
+		},
+		{
+			"sorangan": "abdi, sim abdi",
+			"batur": "sim abdi",
+			"loma": "kuring, sim kuring",
+			"bindo": "saya",
+			"english": "i, me"
 		}
 	]
 }
