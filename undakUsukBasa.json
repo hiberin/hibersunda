@@ -19,7 +19,7 @@
 			"batur": "ray, rayi",
 			"loma": "adi",
 			"bindo": "adik",
-			"english": "little brother"
+			"english": "younger brother, younger sister"
 		},
 		{
 			"sorangan": "kanggo, kanggé",
@@ -47,7 +47,7 @@
 			"batur": "engkang",
 			"loma": "akang",
 			"bindo": "abang, kakak",
-			"english": "big brother"
+			"english": "older brother, older sister"
 		},
 		{
 			"sorangan": "pun aki",
@@ -1504,6 +1504,125 @@
 			"loma": "kuring, sim kuring",
 			"bindo": "saya",
 			"english": "i, me"
+		},
+		{
+			"sorangan": "labuh",
+			"batur": "geubis",
+			"loma": "labuh",
+			"bindo": "jatuh",
+			"english": "fall"
+		},
+		{
+			"sorangan": "lahun, ngalahun",
+			"batur": "pangkon, mangkon",
+			"loma": "lahun, ngalahun",
+			"bindo": "pangku, memangku",
+			"english": "hold"
+		},
+		{
+			"sorangan": "sanés",
+			"batur": "sanés",
+			"loma": "lain",
+			"bindo": "bukan",
+			"english": "not"
+		},
+		{
+			"sorangan": "lajeng",
+			"batur": "lajeng",
+			"loma": "laju",
+			"bindo": "terus",
+			"english": "continue"
+		},
+		{
+			"sorangan": "lalaki",
+			"batur": "pameget",
+			"loma": "lalaki",
+			"bindo": "laki-laki",
+			"english": "man"
+		},
+		{
+			"sorangan": "pajeng",
+			"batur": "pajeng",
+			"loma": "payu",
+			"bindo": "laku",
+			"english": "in demand"
+		},
+		{
+			"sorangan": "nongton",
+			"batur": "nongton",
+			"loma": "lalajo",
+			"bindo": "menonton",
+			"english": "watch"
+		},
+		{
+			"sorangan": "upami",
+			"batur": "upami",
+			"loma": "lamun, upama",
+			"bindo": "umpama, jikalau",
+			"english": "if"
+		},
+		{
+			"sorangan": "pun lanceuk",
+			"batur": "tuang raka",
+			"loma": "lanceuk",
+			"bindo": "kakak",
+			"english": "older brother, older sister"
+		},
+		{
+			"sorangan": "jalaran, sabab",
+			"batur": "margi",
+			"loma": "lantaran, sabab",
+			"bindo": "karena",
+			"english": "because"
+		},
+		{
+			"sorangan": "lého",
+			"batur": "umbel",
+			"loma": "lého",
+			"bindo": "meler, ingus",
+			"english": "snot"
+		},
+		{
+			"sorangan": "letah",
+			"batur": "ilat",
+			"loma": "letah",
+			"bindo": "lidah",
+			"english": "tongue"
+		},
+		{
+			"sorangan": "leungeun",
+			"batur": "panangan",
+			"loma": "leungeun",
+			"bindo": "tangan",
+			"english": "hand"
+		},
+		{
+			"sorangan": "leungit",
+			"batur": "leungit",
+			"loma": "ical",
+			"bindo": "hilang",
+			"english": "lost (disappear)"
+		},
+		{
+			"sorangan": "alit",
+			"batur": "alit",
+			"loma": "leutik",
+			"bindo": "kecil",
+			"english": "small"
+		},
+		{
+			"sorangan": "langkung",
+			"batur": "langkung",
+			"loma": "leuwih",
+			"bindo": "lebih",
+			"english": "more"
+		},
+		{
+			"sorangan": "lami",
+			"batur": "lami",
+			"loma": "lila",
+			"bindo": "lama",
+			"english": "long time"
 		}
 	]
 }
