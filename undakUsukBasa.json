@@ -1623,6 +1623,195 @@
 			"loma": "lila",
 			"bindo": "lama",
 			"english": "long time"
+		},
+		{
+			"sorangan": "awis",
+			"batur": "awis",
+			"loma": "mahal",
+			"bindo": "mahal",
+			"english": "expensive"
+		},
+		{
+			"sorangan": "maksad",
+			"batur": "maksad",
+			"loma": "maksud",
+			"bindo": "maksud",
+			"english": "purpose, meaning"
+		},
+		{
+			"sorangan": "jalmi teu gaduh",
+			"batur": "teu kagungan nanaon",
+			"loma": "malarat, miskin",
+			"bindo": "tidak punya, miskin",
+			"english": "poor"
+		},
+		{
+			"sorangan": "wengi",
+			"batur": "wengi",
+			"loma": "malem",
+			"bindo": "malam",
+			"english": "night"
+		},
+		{
+			"sorangan": "malik",
+			"batur": "mayun",
+			"loma": "malik",
+			"bindo": "berbalik",
+			"english": "turn around"
+		},
+		{
+			"sorangan": "mamayu",
+			"batur": "mamajeng",
+			"loma": "mamayu",
+			"bindo": "makan sepuasnya",
+			"english": "eat all that wanted"
+		},
+		{
+			"sorangan": "mugi",
+			"batur": "mugi",
+			"loma": "mangka, sing, muga",
+			"bindo": "semoga",
+			"english": "hopefully"
+		},
+		{
+			"sorangan": "satueacan",
+			"batur": "satueacan",
+			"loma": "meméh, saméméhna",
+			"bindo": "sebelum",
+			"english": "before"
+		},
+		{
+			"sorangan": "meujeuhna",
+			"batur": "cekap",
+			"loma": "meujeuhna",
+			"bindo": "cukup",
+			"english": "enough"
+		},
+		{
+			"sorangan": "panginten",
+			"batur": "panginten",
+			"loma": "meureun",
+			"bindo": "mungkin, barangkali",
+			"english": "maybe"
+		},
+		{
+			"sorangan": "kawit, kawitna",
+			"batur": "kawit, kawitna",
+			"loma": "mimiti, mimitina",
+			"bindo": "semula",
+			"english": "at first"
+		},
+		{
+			"sorangan": "étang-étang",
+			"batur": "étang-étang",
+			"loma": "minangka",
+			"bindo": "sebagai",
+			"english": "as"
+		},
+		{
+			"sorangan": "sering",
+			"batur": "sering",
+			"loma": "mindeng,remen",
+			"bindo": "sering",
+			"english": "often"
+		},
+		{
+			"sorangan": "lisah",
+			"batur": "lisah",
+			"loma": "minyak",
+			"bindo": "minyak",
+			"english": "oil"
+		},
+		{
+			"sorangan": "mupakat, rempug",
+			"batur": "rempag",
+			"loma": "mupakat, rempug",
+			"bindo": "setuju",
+			"english": "agree"
+		},
+		{
+			"sorangan": "mirah",
+			"batur": "mirah",
+			"loma": "murah",
+			"bindo": "murah",
+			"english": "cheap"
+		},
+		{
+			"sorangan": "sanaos",
+			"batur": "sanaos",
+			"loma": "najan, sanajan",
+			"bindo": "walaupun, meskipun",
+			"english": "though"
+		},
+		{
+			"sorangan": "mung",
+			"batur": "mung",
+			"loma": "ngan",
+			"bindo": "hanya",
+			"english": "only"
+		},
+		{
+			"sorangan": "wasta, nami",
+			"batur": "jenengan, kakasih",
+			"loma": "ngaran",
+			"bindo": "nama",
+			"english": "name"
+		},
+		{
+			"sorangan": "ngora",
+			"batur": "anom",
+			"loma": "ngora",
+			"bindo": "muda",
+			"english": "young"
+		},
+		{
+			"sorangan": "pun nini",
+			"batur": "tuang éyang",
+			"loma": "nini",
+			"bindo": "nenek",
+			"english": "grandmother"
+		},
+		{
+			"sorangan": "terang",
+			"batur": "uninga",
+			"loma": "nyaho",
+			"bindo": "tahu",
+			"english": "know"
+		},
+		{
+			"sorangan": "nyaring",
+			"batur": "teu acan kulem",
+			"loma": "nyaring",
+			"bindo": "melek, bangun",
+			"english": "awake"
+		},
+		{
+			"sorangan": "nyolowédor",
+			"batur": "mudia haté",
+			"loma": "nyolowédor",
+			"bindo": "selingkuh",
+			"english": "affair"
+		},
+		{
+			"sorangan": "obat, ubar",
+			"batur": "landong",
+			"loma": "obat, ubar",
+			"bindo": "obat",
+			"english": "medicine"
+		},
+		{
+			"sorangan": "ondang",
+			"batur": "ulem",
+			"loma": "ondang",
+			"bindo": "undang",
+			"english": "invite"
+		},
+		{
+			"sorangan": "ngalereskeun",
+			"batur": "ngalereskeun",
+			"loma": "omé, ngoméan; menerkeun",
+			"bindo": "memperbaiki",
+			"english": "fix, repair"
 		}
 	]
 }
