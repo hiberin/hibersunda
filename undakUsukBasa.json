@@ -2085,6 +2085,118 @@
 			"loma": "purun",
 			"bindo": "mau",
 			"english": "willing"
+		},
+		{
+			"sorangan": "rarabi",
+			"batur": "garwaan",
+			"loma": "rarabi",
+			"bindo": "berkeluarga",
+			"english": "having family"
+		},
+		{
+			"sorangan": "pangraksa",
+			"batur": "panangtayungan",
+			"loma": "raksa, pangraksa",
+			"bindo": "bimbingan",
+			"english": "guidance"
+		},
+		{
+			"sorangan": "ramo",
+			"batur": "rema",
+			"loma": "ramo",
+			"bindo": "jari tangan/kaki",
+			"english": "fingers"
+		},
+		{
+			"sorangan": "mangga",
+			"batur": "mangga",
+			"loma": "rampés",
+			"bindo": "jawaban sampurasun/punten/permisi",
+			"english": "answer of sampurasun/punten/permisi"
+		},
+		{
+			"sorangan": "rumaos",
+			"batur": "rumaos",
+			"loma": "rasa, rumasa",
+			"bindo": "merasa",
+			"english": "admit"
+		},
+		{
+			"sorangan": "seueur",
+			"batur": "seueur",
+			"loma": "réa, loba",
+			"bindo": "banyak",
+			"english": "much"
+		},
+		{
+			"sorangan": "récéh",
+			"batur": "artos alit",
+			"loma": "récéh",
+			"bindo": "receh",
+			"english": "loose/small change"
+		},
+		{
+			"sorangan": "sareng",
+			"batur": "sareng",
+			"loma": "reujeung, jeung",
+			"bindo": "dan",
+			"english": "with"
+		},
+		{
+			"sorangan": "kakandungan",
+			"batur": "bobot, ngandeg",
+			"loma": "reuneuh",
+			"bindo": "mengandung",
+			"english": "pregnant"
+		},
+		{
+			"sorangan": "reureuh",
+			"batur": "ngaso",
+			"loma": "reureuh",
+			"bindo": "beristirahat",
+			"english": "rest"
+		},
+		{
+			"sorangan": "rieut",
+			"batur": "puyeng",
+			"loma": "rieut",
+			"bindo": "pusing",
+			"english": "dizzy"
+		},
+		{
+			"sorangan": "ripuh",
+			"batur": "repot",
+			"loma": "ripuh",
+			"bindo": "repot",
+			"english": "hassle"
+		},
+		{
+			"sorangan": "robah",
+			"batur": "robih",
+			"loma": "robah",
+			"bindo": "berubah",
+			"english": "changed"
+		},
+		{
+			"sorangan": "roko",
+			"batur": "sesepeun",
+			"loma": "roko, ududeun",
+			"bindo": "rokok",
+			"english": "cigarette"
+		},
+		{
+			"sorangan": "sarupi, sami",
+			"batur": "sarupi, sami",
+			"loma": "rua, sarua",
+			"bindo": "sama",
+			"english": "similar"
+		},
+		{
+			"sorangan": "énggal-énggalan",
+			"batur": "énggal-énggalan",
+			"loma": "rusuh, rurusuhan",
+			"bindo": "buru-buru",
+			"english": "rush"
 		}
 	]
 }
