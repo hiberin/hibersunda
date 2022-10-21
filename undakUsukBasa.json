@@ -2197,6 +2197,321 @@
 			"loma": "rusuh, rurusuhan",
 			"bindo": "buru-buru",
 			"english": "rush"
+		},
+		{
+			"sorangan": "nyanyabaan",
+			"batur": "angkat-angkatan",
+			"loma": "saba, nyaba",
+			"bindo": "bepergian",
+			"english": "trip, travel"
+		},
+		{
+			"sorangan": "keur wakto",
+			"batur": "waktos",
+			"loma": "sabot",
+			"bindo": "waktu",
+			"english": "at the time"
+		},
+		{
+			"sorangan": "beubeur",
+			"batur": "beulitan",
+			"loma": "sabuk, beubeur",
+			"bindo": "gesper",
+			"english": "belt"
+		},
+		{
+			"sorangan": "sayagi",
+			"batur": "sayagi",
+			"loma": "sadia",
+			"bindo": "sedia",
+			"english": "available"
+		},
+		{
+			"sorangan": "sakedap",
+			"batur": "sakedap",
+			"loma": "sakeudeung",
+			"bindo": "sebentar",
+			"english": "a little moment"
+		},
+		{
+			"sorangan": "lepat",
+			"batur": "lepat",
+			"loma": "salah",
+			"bindo": "salah",
+			"english": "wrong"
+		},
+		{
+			"sorangan": "salahsawios",
+			"batur": "salahsawios",
+			"loma": "salahsaurang",
+			"bindo": "salahseorang, di antaranya",
+			"english": "one of"
+		},
+		{
+			"sorangan": "pun lanceuk",
+			"batur": "carogé, tuang raka",
+			"loma": "salaki",
+			"bindo": "suami",
+			"english": "husband"
+		},
+		{
+			"sorangan": "salamet",
+			"batur": "wilujeng",
+			"loma": "salamet",
+			"bindo": "selamat",
+			"english": "happy, good (for greetings)"
+		},
+		{
+			"sorangan": "sambeang",
+			"batur": "netepan",
+			"loma": "salat, solat",
+			"bindo": "shalat",
+			"english": "pray"
+		},
+		{
+			"sorangan": "salésma",
+			"batur": "pilek",
+			"loma": "salésma",
+			"bindo": "pilek",
+			"english": "flu"
+		},
+		{
+			"sorangan": "salempang",
+			"batur": "salempang",
+			"loma": "salempang, hariwang",
+			"bindo": "khawatir",
+			"english": "worry"
+		},
+		{
+			"sorangan": "disalin",
+			"batur": "digentos",
+			"loma": "salin, disalin",
+			"bindo": "diganti",
+			"english": "change(clothes)"
+		},
+		{
+			"sorangan": "amparan",
+			"batur": "amparan",
+			"loma": "samak",
+			"bindo": "tikar",
+			"english": "mat"
+		},
+		{
+			"sorangan": "nyampak",
+			"batur": "nyondong",
+			"loma": "sampak, nyampak",
+			"bindo": "sedang berada",
+			"english": "currently at"
+		},
+		{
+			"sorangan": "sinjang",
+			"batur": "sinjang",
+			"loma": "samping",
+			"bindo": "karin sarung perempuan",
+			"english": "cloth"
+		},
+		{
+			"sorangan": "kasanding",
+			"batur": "kasumpingan",
+			"loma": "sanding, kasanding",
+			"bindo": "kedatangan",
+			"english": "arrival"
+		},
+		{
+			"sorangan": "saparantos",
+			"batur": "saparantos",
+			"loma": "sanggeus",
+			"bindo": "sesudah",
+			"english": "after"
+		},
+		{
+			"sorangan": "sanggem",
+			"batur": "sanggem",
+			"loma": "sanggup",
+			"bindo": "sanggup",
+			"english": "able"
+		},
+		{
+			"sorangan": "mondok",
+			"batur": "kulem",
+			"loma": "saré",
+			"bindo": "tidur",
+			"english": "sleep"
+		},
+		{
+			"sorangan": "sadayana",
+			"batur": "sadayana",
+			"loma": "saréréa",
+			"bindo": "semuanya(orang)",
+			"english": "everyone"
+		},
+		{
+			"sorangan": "sareng",
+			"batur": "sareng",
+			"loma": "sarta, jeung deui",
+			"bindo": "serta, dengan",
+			"english": "with"
+		},
+		{
+			"sorangan": "sawah",
+			"batur": "sérang",
+			"loma": "sawah",
+			"bindo": "sawah",
+			"english": "ricefield"
+		},
+		{
+			"sorangan": "séjén",
+			"batur": "sanés",
+			"loma": "séjén",
+			"bindo": "yang lain",
+			"english": "another"
+		},
+		{
+			"sorangan": "midua haté",
+			"batur": "midua manah",
+			"loma": "séléwér, nyéléwér",
+			"bindo": "selingkuh",
+			"english": "having an affair"
+		},
+		{
+			"sorangan": "tamu",
+			"batur": "tamu",
+			"loma": "sémah",
+			"bindo": "tamu",
+			"english": "guest"
+		},
+		{
+			"sorangan": "kantun",
+			"batur": "kantun",
+			"loma": "sésa, kari",
+			"bindo": "sisa",
+			"english": "remainder"
+		},
+		{
+			"sorangan": "sebat",
+			"batur": "sebat",
+			"loma": "sebut",
+			"bindo": "sebut",
+			"english": "say"
+		},
+		{
+			"sorangan": "pirak, mirak",
+			"batur": "pirak, mirak",
+			"loma": "serah, nyerahkeun",
+			"bindo": "bercerai, menceraikan",
+			"english": "divorce"
+		},
+		{
+			"sorangan": "sesek",
+			"batur": "wareg",
+			"loma": "seubeuh",
+			"bindo": "kenyang",
+			"english": "full"
+		},
+		{
+			"sorangan": "seuri",
+			"batur": "gumujeng",
+			"loma": "seuri",
+			"bindo": "tertawa",
+			"english": "laugh"
+		},
+		{
+			"sorangan": "milari",
+			"batur": "milari",
+			"loma": "siar, nyiar",
+			"bindo": "mencari",
+			"english": "search, look for"
+		},
+		{
+			"sorangan": "sibanyo",
+			"batur": "wawasuh",
+			"loma": "sibanyo",
+			"bindo": "mencuci",
+			"english": "wash"
+		},
+		{
+			"sorangan": "sirah",
+			"batur": "mastaka",
+			"loma": "sirah",
+			"bindo": "kepala",
+			"english": "head"
+		},
+		{
+			"sorangan": "larangan",
+			"batur": "larangan",
+			"loma": "sirit",
+			"bindo": "alat vital laki-laki",
+			"english": "penis"
+		},
+		{
+			"sorangan": "pamérés",
+			"batur": "pamérés",
+			"loma": "sisir",
+			"bindo": "sisir",
+			"english": "comb"
+		},
+		{
+			"sorangan": "sora",
+			"batur": "soanten",
+			"loma": "soara, sora",
+			"bindo": "suara",
+			"english": "sound"
+		},
+		{
+			"sorangan": "sorangan",
+			"batur": "nyalira",
+			"loma": "sorangan",
+			"bindo": "sendiri",
+			"english": "alone"
+		},
+		{
+			"sorangan": "sonten",
+			"batur": "sonten",
+			"loma": "soré",
+			"bindo": "sore",
+			"english": "afternoon, evening"
+		},
+		{
+			"sorangan": "manawi",
+			"batur": "manawi",
+			"loma": "sugan",
+			"bindo": "barangkali",
+			"english": "maybe, probably"
+		},
+		{
+			"sorangan": "suku",
+			"batur": "suku",
+			"loma": "sampean",
+			"bindo": "kaki",
+			"english": "foot"
+		},
+		{
+			"sorangan": "ngaberesihan",
+			"batur": "nyepitan",
+			"loma": "sunat, nyunatan",
+			"bindo": "disunat",
+			"english": "circumcision"
+		},
+		{
+			"sorangan": "cangkem",
+			"batur": "baham",
+			"loma": "sungut",
+			"bindo": "mulut",
+			"english": "mouth"
+		},
+		{
+			"sorangan": "supados",
+			"batur": "supados",
+			"loma": "supaya",
+			"bindo": "supaya",
+			"english": "so that"
+		},
+		{
+			"sorangan": "serat",
+			"batur": "serat, tétésan",
+			"loma": "surat",
+			"bindo": "surat",
+			"english": "letter, mail"
 		}
 	]
 }
