@@ -2512,6 +2512,258 @@
 			"loma": "surat",
 			"bindo": "surat",
 			"english": "letter, mail"
+		},
+		{
+			"sorangan": "adat",
+			"batur": "panganggo",
+			"loma": "tabéat",
+			"bindo": "tabiat",
+			"english": "character"
+		},
+		{
+			"sorangan": "kawitna, awitna",
+			"batur": "kawitna",
+			"loma": "tadina",
+			"bindo": "semua, asalnya",
+			"english": "previously"
+		},
+		{
+			"sorangan": "kokotor",
+			"batur": "kokotor",
+			"loma": "tai",
+			"bindo": "tahi",
+			"english": "dung, feces"
+		},
+		{
+			"sorangan": "nginten-nginten",
+			"batur": "nginten-nginten",
+			"loma": "taksir, ngira",
+			"bindo": "menaksir",
+			"english": "assess, estimate"
+		},
+		{
+			"sorangan": "taktak",
+			"batur": "taraju",
+			"loma": "taktak",
+			"bindo": "pundak",
+			"english": "shoulder"
+		},
+		{
+			"sorangan": "wiat sanggem",
+			"batur": "wiat saur",
+			"loma": "talatah",
+			"bindo": "nitip pesan",
+			"english": "leave a message"
+		},
+		{
+			"sorangan": "tambih",
+			"batur": "wuwuh",
+			"loma": "tambah",
+			"bindo": "tambah",
+			"english": "add"
+		},
+		{
+			"sorangan": "tampi",
+			"batur": "tampi",
+			"loma": "tampa, tarima",
+			"bindo": "terima",
+			"english": "accept, receive"
+		},
+		{
+			"sorangan": "kanyahoan",
+			"batur": "kauninga",
+			"loma": "tangén, katangén",
+			"bindo": "ketahuan",
+			"english": "found out"
+		},
+		{
+			"sorangan": "nangtung",
+			"batur": "ngadeg",
+			"loma": "tangtung, nangtung",
+			"bindo": "berdiri",
+			"english": "stand up"
+		},
+		{
+			"sorangan": "taros",
+			"batur": "taros",
+			"loma": "tanya",
+			"bindo": "bertanya",
+			"english": "ask (question)"
+		},
+		{
+			"sorangan": "nanging",
+			"batur": "nanging",
+			"loma": "tapi",
+			"bindo": "tetapi",
+			"english": "but"
+		},
+		{
+			"sorangan": "tarang",
+			"batur": "taar",
+			"loma": "tarang",
+			"bindo": "jidat",
+			"english": "forehead"
+		},
+		{
+			"sorangan": "tawis, nawis",
+			"batur": "pundut, mundut",
+			"loma": "tawar, nawar",
+			"bindo": "menawar",
+			"english": "bid"
+		},
+		{
+			"sorangan": "rupina",
+			"batur": "rupina",
+			"loma": "tayoh, tayohna",
+			"bindo": "sepertinya",
+			"english": "likely"
+		},
+		{
+			"sorangan": "milari",
+			"batur": "milari",
+			"loma": "téang, néang",
+			"bindo": "mencari",
+			"english": "search, look for"
+		},
+		{
+			"sorangan": "ninggal",
+			"batur": "ninggali",
+			"loma": "ténjo, nénjo; nempo",
+			"bindo": "melihat",
+			"english": "see"
+		},
+		{
+			"sorangan": "dugi",
+			"batur": "dugi",
+			"loma": "tepi, nepi",
+			"bindo": "sampai",
+			"english": "arrive"
+		},
+		{
+			"sorangan": "téré",
+			"batur": "kawalon",
+			"loma": "téré",
+			"bindo": "tiri",
+			"english": "step(brother, sister, etc)"
+		},
+		{
+			"sorangan": "énggal",
+			"batur": "énggal",
+			"loma": "téréh",
+			"bindo": "cepat",
+			"english": "fast"
+		},
+		{
+			"sorangan": "teleg",
+			"batur": "telen",
+			"loma": "teleg, teureuy",
+			"bindo": "telan",
+			"english": "swallow"
+		},
+		{
+			"sorangan": "nembang",
+			"batur": "mamaos",
+			"loma": "tembang, nembang",
+			"bindo": "menyanyi",
+			"english": "sing"
+		},
+		{
+			"sorangan": "tepang",
+			"batur": "tepang",
+			"loma": "tepung",
+			"bindo": "bertemu",
+			"english": "meet"
+		},
+		{
+			"sorangan": "teras",
+			"batur": "teras",
+			"loma": "terus",
+			"bindo": "terus",
+			"english": "then, continue"
+		},
+		{
+			"sorangan": "simpen",
+			"batur": "simpen",
+			"loma": "teundeun",
+			"bindo": "simpan",
+			"english": "save, put"
+		},
+		{
+			"sorangan": "tincak, nincak",
+			"batur": "dampal, ngadampal",
+			"loma": "tincak, nincak",
+			"bindo": "injak, menginjak",
+			"english": "step on"
+		},
+		{
+			"sorangan": "ngajurung",
+			"batur": "miwarang",
+			"loma": "titah, nitah, ngajurung",
+			"bindo": "menyuruh",
+			"english": "order"
+		},
+		{
+			"sorangan": "tonggong",
+			"batur": "pungkur",
+			"loma": "tonggong",
+			"bindo": "punggung",
+			"english": "back"
+		},
+		{
+			"sorangan": "topi, dudukuy",
+			"batur": "tudung",
+			"loma": "topi, dudukuy",
+			"bindo": "topi",
+			"english": "hat, cap"
+		},
+		{
+			"sorangan": "tulis, nulis",
+			"batur": "serat, nyerat",
+			"loma": "tulis, nulis",
+			"bindo": "tulis, menulis",
+			"english": "write"
+		},
+		{
+			"sorangan": "pitulung",
+			"batur": "pitandang",
+			"loma": "tulung, pitulung",
+			"bindo": "pertolongan",
+			"english": "help"
+		},
+		{
+			"sorangan": "cios",
+			"batur": "cios",
+			"loma": "tulus",
+			"bindo": "jadi",
+			"english": "happen"
+		},
+		{
+			"sorangan": "teras, lajeng",
+			"batur": "teras, lajeng",
+			"loma": "tuluy",
+			"bindo": "terus",
+			"english": "continue"
+		},
+		{
+			"sorangan": "tumpak, numpak",
+			"batur": "tunggang, nunggang",
+			"loma": "tumpak, numpak",
+			"bindo": "menaiki",
+			"english": "get on"
+		},
+		{
+			"sorangan": "antos, ngantosan",
+			"batur": "antos, ngangtosan",
+			"loma": "tunggu, nungguan",
+			"bindo": "tunggu, menunggu",
+			"english": "wait"
+		},
+		{
+			"sorangan": "turun",
+			"batur": "lungsur",
+			"loma": "turun",
+			"bindo": "turun",
+			"english": "go down"
 		}
 	]
 }
