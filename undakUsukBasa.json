@@ -2764,6 +2764,125 @@
 			"loma": "turun",
 			"bindo": "turun",
 			"english": "go down"
+		},
+		{
+			"sorangan": "ucap",
+			"batur": "kedal, lisan",
+			"loma": "ucap",
+			"bindo": "ucap",
+			"english": "said"
+		},
+		{
+			"sorangan": "teu kénging",
+			"batur": "teu kénging",
+			"loma": "ulah, entong, tong, teu meunang",
+			"bindo": "tidak boleh",
+			"english": "not allowed"
+		},
+		{
+			"sorangan": "ulin",
+			"batur": "ameng",
+			"loma": "ulin",
+			"bindo": "bermain",
+			"english": "play"
+		},
+		{
+			"sorangan": "umur",
+			"batur": "yuswa",
+			"loma": "umur",
+			"bindo": "usia",
+			"english": "age"
+		},
+		{
+			"sorangan": "ngalereskeun",
+			"batur": "ngalereskeun",
+			"loma": "urus, nguruskeun",
+			"bindo": "memperbaiki",
+			"english": "fix, repair"
+		},
+		{
+			"sorangan": "tilas",
+			"batur": "tilas",
+			"loma": "urut",
+			"bindo": "bekas",
+			"english": "ex, used"
+		},
+		{
+			"sorangan": "utami",
+			"batur": "utami",
+			"loma": "utama",
+			"bindo": "utama",
+			"english": "primary"
+		},
+		{
+			"sorangan": "waktos",
+			"batur": "waktos",
+			"loma": "waktu",
+			"bindo": "waktu",
+			"english": "time"
+		},
+		{
+			"sorangan": "wantun",
+			"batur": "wantun",
+			"loma": "wani",
+			"bindo": "berani",
+			"english": "dare"
+		},
+		{
+			"sorangan": "cageur",
+			"batur": "damang",
+			"loma": "waras",
+			"bindo": "sembuh",
+			"english": "healed"
+		},
+		{
+			"sorangan": "wargi, sadérék",
+			"batur": "wargi, sadérék",
+			"loma": "warga, dulur",
+			"bindo": "saudara",
+			"english": "family"
+		},
+		{
+			"sorangan": "sawatawis",
+			"batur": "sawatawis",
+			"loma": "watara, sawatara",
+			"bindo": "sebagian",
+			"english": "part of"
+		},
+		{
+			"sorangan": "wanoh, kenal",
+			"batur": "kenal",
+			"loma": "wawuh",
+			"bindo": "kenal",
+			"english": "know"
+		},
+		{
+			"sorangan": "pupur",
+			"batur": "pupur",
+			"loma": "wedak",
+			"bindo": "pupur",
+			"english": "powder"
+		},
+		{
+			"sorangan": "wedal",
+			"batur": "weton",
+			"loma": "wedal",
+			"bindo": "lahir",
+			"english": "birth"
+		},
+		{
+			"sorangan": "kaétang",
+			"batur": "kaétang",
+			"loma": "wilang, kawilang",
+			"bindo": "terhitung",
+			"english": "counted"
+		},
+		{
+			"sorangan": "wudu",
+			"batur": "abdas",
+			"loma": "wudu",
+			"bindo": "wudu",
+			"english": "ablution"
 		}
 	]
 }
