@@ -11,13 +11,13 @@ In case you need a ready to use API for your own project, we have deployed this 
 <h3>To get all words</h3>
 
 ```bash
-https://hibersunda-production.up.railway.app/undakusukbasa
+https://hibersunda.onrender.com/undakusukbasa
 ```
 
 <h3>To get words with a slug or substring</h3>
 
 ```bash
-https://hibersunda-production.up.railway.app/undakusukbasa/{slug}
+https://hibersunda.onrender.com/undakusukbasa/{slug}
 ```
 
 # Dictionary source
