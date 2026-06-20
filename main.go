@@ -1,15 +1,17 @@
 package main
 
 import (
+	_ "embed"
 	"encoding/json"
 	"fmt"
-	"io/ioutil"
 	"net/http"
-	"os"
 	"strings"
 
 	"github.com/gin-gonic/gin"
 )
+
+//go:embed undakUsukBasa.json
+var wordsJSON []byte
 
 type Words struct {
 	Words []word `json:"words"`
@@ -46,22 +48,12 @@ func main() {
 * Function to get all the words
  */
 func getAllWords(c *gin.Context) {
-	jsonFile, err := os.Open("./undakUsukBasa.json")
-
-	// if error happens
+	words, err := loadWords()
 	if err != nil {
 		fmt.Println(err)
+		c.IndentedJSON(http.StatusInternalServerError, gin.H{"error": "failed to load words"})
+		return
 	}
-
-	// If no error
-	// defer the closing of our jsonFile so that we can parse it later on
-	defer jsonFile.Close()
-	// Save json content into byte
-	byteValue, _ := ioutil.ReadAll(jsonFile)
-
-	// Initiate interface
-	var words Words
-	json.Unmarshal(byteValue, &words)
 
 	// return json
 	c.IndentedJSON(http.StatusOK, words)
@@ -72,22 +64,12 @@ func getAllWords(c *gin.Context) {
  */
 func getWordsBySubstring(c *gin.Context) {
 	substring := c.Param("substring")
-	jsonFile, err := os.Open("./undakUsukBasa.json")
-
-	// if error happens
+	words, err := loadWords()
 	if err != nil {
 		fmt.Println(err)
+		c.IndentedJSON(http.StatusInternalServerError, gin.H{"error": "failed to load words"})
+		return
 	}
-
-	// If no error
-	// defer the closing of our jsonFile so that we can parse it later on
-	defer jsonFile.Close()
-	// Save json content into byte
-	byteValue, _ := ioutil.ReadAll(jsonFile)
-
-	// Initiate interface
-	var words Words
-	json.Unmarshal(byteValue, &words)
 
 	foundWords := []interface{}{}
 	for i := 0; i < len(words.Words); i++ {
@@ -103,4 +85,10 @@ func getWordsBySubstring(c *gin.Context) {
 	}
 	c.IndentedJSON(http.StatusOK, foundWords)
 	return
+}
+
+func loadWords() (Words, error) {
+	var words Words
+	err := json.Unmarshal(wordsJSON, &words)
+	return words, err
 }
