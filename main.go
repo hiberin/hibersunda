@@ -6,8 +6,10 @@ import (
 	"fmt"
 	"net/http"
 	"strings"
+	"unicode"
 
 	"github.com/gin-gonic/gin"
+	"golang.org/x/text/unicode/norm"
 )
 
 //go:embed undakUsukBasa.json
@@ -63,7 +65,7 @@ func getAllWords(c *gin.Context) {
 * Function to get words containing suffix
  */
 func getWordsBySubstring(c *gin.Context) {
-	substring := c.Param("substring")
+	substring := normalizeForSearch(c.Param("substring"))
 	words, err := loadWords()
 	if err != nil {
 		fmt.Println(err)
@@ -73,18 +75,35 @@ func getWordsBySubstring(c *gin.Context) {
 
 	foundWords := []interface{}{}
 	for i := 0; i < len(words.Words); i++ {
-		soranganWord := strings.ToLower(words.Words[i].Sorangan)
-		baturWord := strings.ToLower(words.Words[i].Batur)
-		lomaWord := strings.ToLower(words.Words[i].Loma)
-		bindoWord := strings.ToLower(words.Words[i].Bindo)
-		englishWord := strings.ToLower(words.Words[i].English)
-		substring = strings.ToLower(substring)
-		if strings.Contains(soranganWord, substring) || strings.Contains(baturWord, substring) || strings.Contains(lomaWord, substring) || strings.Contains(bindoWord, substring) || strings.Contains(englishWord, substring) {
+		if wordContainsSubstring(words.Words[i], substring) {
 			foundWords = append(foundWords, words.Words[i])
 		}
 	}
 	c.IndentedJSON(http.StatusOK, foundWords)
 	return
+}
+
+func wordContainsSubstring(w word, substring string) bool {
+	return strings.Contains(normalizeForSearch(w.Sorangan), substring) ||
+		strings.Contains(normalizeForSearch(w.Batur), substring) ||
+		strings.Contains(normalizeForSearch(w.Loma), substring) ||
+		strings.Contains(normalizeForSearch(w.Bindo), substring) ||
+		strings.Contains(normalizeForSearch(w.English), substring)
+}
+
+func normalizeForSearch(value string) string {
+	decomposed := norm.NFD.String(strings.ToLower(value))
+	var builder strings.Builder
+	builder.Grow(len(decomposed))
+
+	for _, r := range decomposed {
+		if unicode.Is(unicode.Mn, r) {
+			continue
+		}
+		builder.WriteRune(r)
+	}
+
+	return builder.String()
 }
 
 func loadWords() (Words, error) {
