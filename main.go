@@ -37,6 +37,11 @@ func main() {
 	router := gin.Default()
 	// We use our custom CORS Middleware
 	router.Use(CORS)
+
+	// Serve static files from public directory
+	router.StaticFile("/", "./public/index.html")
+	router.Static("/public", "./public")
+
 	router.GET("/undakusukbasa", getAllWords)
 	router.GET("/undakusukbasa/:substring", getWordsBySubstring)
 
